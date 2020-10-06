@@ -1,0 +1,171 @@
+.carousel-control-prev{
+    height: 100px;
+    width: 100px;
+}
+
+.carousel-control-next{
+    height: 100px;
+    width: 100px;
+}
+
+.carousel-inner .carousel-item{
+    background-color: #fbf2e2;
+    margin-bottom: 5em;
+}
+
+.carousel-text{
+    padding-left: 100px;
+    color:  #573a1a;
+}
+
+.carousel-inner .carousel-item h1 {
+    font-size: 80px;
+    text-align: left;
+}
+
+.carousel-inner .carousel-item button {
+    background-color:  #573a1a;
+    border:  #573a1a;
+}
+
+.carousel-inner .carousel-item img {
+    padding: 0px;
+    /* height:360px; */
+}
+
+.fixed-bottom {
+    background-color: #573a1a;
+    color: white;
+}
+
+.video{
+    margin-left:2em;
+    margin-right:2em;
+    margin-bottom: 5em;
+}
+
+.video h5{
+    color:  #573a1a;
+    padding: 10px;
+}
+
+.video video{
+    margin: auto;
+    width: 100%; 
+    height: 240px;
+}
+
+.accomplishmentstxt{
+    color:  #573a1a;
+    padding: 10px;
+}
+.accomplishments{
+    margin: auto;
+    background-color: #fbf2e2;
+    margin-bottom: 5em;
+    height: 400px;
+}
+
+.accomplishments i{
+    color:  #573a1a;
+    text-align: center;
+    padding: 30px;
+    width: 100%;
+}
+
+.accomplishments p{
+    text-align: center;
+    width: 100%;
+    color:  #573a1a;
+    font-size: 20px;
+}
+
+.accomplishments .ln{
+    border-bottom: solid 2px black;
+    width: 30%;
+    margin: auto;
+}
+
+.accomplishments h3{
+    padding-top: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.medicaltxt{
+    color:  #573a1a;
+    padding: 10px;
+}
+.medical{
+    margin: auto;
+    background-color: #fbf2e2;
+    margin-bottom: 5em;
+    /* height: 350px; */
+    height: 100px;
+}
+
+.medical .card{
+    margin: 2em;
+    width: 18rem;
+    height: 12rem;
+}
+
+.medical .card-body{
+    text-align: center;
+}
+
+.medical .card .card-body a{
+    color:  #573a1a;
+    background-color:  white;
+    border:  #573a1a 2px solid;
+}
+
+.medicalAll{
+    text-align: center;
+}
+
+.medicalAll a{
+    background-color:  #573a1a;
+    border:  #573a1a;
+}
+
+.projectstxt{
+    color:  #573a1a;
+    padding: 10px;
+}
+
+.projects{
+    margin: auto;
+    background-color: #fbf2e2;
+    margin-bottom: 5em;
+    /* height: 350px; */
+    height: 400px;
+}
+
+.projectsAll{
+    text-align: center;
+}
+
+.projectsAll a{
+    background-color:  #573a1a;
+    border:  #573a1a;
+    margin-bottom: 20px;
+}
+
+.projects img{
+    padding-top: 20px;
+}
+
+.projects h5{
+    text-align: center;
+    background-color:  #573a1a;
+    color: white;
+}
+
+.projects1{
+    margin: auto;
+    background-color: #fbf2e2;
+    margin-bottom: 5em;
+    /* height: 350px; */
+    height: 300px;
+}
