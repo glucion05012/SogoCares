@@ -77,19 +77,13 @@
     <div class="video">
         <div class="row">
             <div class="col-sm-6">
-                <h5>HOTEL SOGO: NEW NORMAL</h5>
-            </div>
-            <div class="col-sm-6">
-                <h5>SOGO CARES AVP</h5>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-6">
+            <h5>HOTEL SOGO: NEW NORMAL</h5>
                 <video controls>
                     <source src="./assets/videos/Final_Hotel Sogo_Playbook_TVC_60s.mp4" type="video/mp4">
                 </video>
             </div>
             <div class="col-sm-6">
+            <h5>SOGO CARES AVP</h5>
                 <video controls>
                     <source src="./assets/videos/Sogo_Cares_2019.mp4" type="video/mp4">
                 </video>
@@ -99,96 +93,69 @@
     <!-- end video -->
 
     <!-- accomplishments -->
-    <h1 class="accomplishmentstxt">Accomplishments</h1>
+
     <div class="row accomplishments">
+        <div class="col-sm-12">
+            <h1 class="accomplishmentstxt">Accomplishments</h1>
+        </div>
         <div class="col-sm-4">
-            <i class="fas fa-map-marker-alt fa-10x"></i>
+            <i class="fas fa-map-marker-alt fa-10x accomplishmentsIcon"></i>
             <p>300</p>
             <div class="ln"></div>
             <h3>Site Visited</h3>
-
         </div>
 
         <div class="col-sm-4">
-            <i class="fas fa-plus-square fa-10x"></i>
+            <i class="fas fa-plus-square fa-10x accomplishmentsIcon"></i>
             <p>336</p>
             <div class="ln"></div>
             <h3>Medical Mission</h3>
-
         </div>
 
         <div class="col-sm-4">
-            <i class="fas fa-male fa-10x"></i>
+        <i class="fas fa-male fa-10x accomplishmentsIcon"></i>
             <p>86,931</p>
             <div class="ln"></div>
             <h3>Beneficiaries</h3>
-
         </div>
     </div>
     <!-- end accomplishments -->
 
     <!-- Medical Mission -->
-    <h1 class="medicaltxt">Medical Missions</h1>
+    
     <div class="row medical">
+        <div class="col-sm-12">
+            <h1 class="medicaltxt">Medical Missions</h1>
+        </div>
         <div class="col-sm-12">
             <p style="color: #573a1a; font-size: 20px; margin:2em;">All medical missions will be postponed until further notice and donation activities will be limited. </p>
         </div>
-        <!-- <div class="col-sm-4">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">May 24, 2018</h5>
-                    <p class="card-text">Sogo Cares serves Sta. Barbara, Tarlac</p>
-                    <a href="#" class="btn btn-primary">LEARN MORE</a>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-sm-4">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">May 26, 2018</h5>
-                    <p class="card-text">Sogo Cares serves <br>Tarlac City</p>
-                    <a href="#" class="btn btn-primary">LEARN MORE</a>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-sm-4">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">May 27, 2018</h5>
-                    <p class="card-text">Sogo Cares serves <br>Tarlac City</p>
-                    <a href="#" class="btn btn-primary">LEARN MORE</a>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-sm-12 medicalAll">
-            <a href="#" class="btn btn-primary">VIEW ALL EVENTS</a>
-        </div> -->
     </div>
     <!-- end Medical Mission -->
 
     <!-- Projects -->
-    <h1 class="projectstxt">Projects</h1>
+    
     <div class="row projects">
+        <div class="col-sm-12">
+            <h1 class="projectstxt">Projects</h1>
+        </div>
         <div class="col-sm-4">
             <a href="#">
-                <img class="d-block img-fluid" src="./assets/carousel/WeCare.jpg" alt="We Care">
+                <img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care">
                 <h5>Doctors-on-Wheels</h5>
             </a>
         </div>
 
         <div class="col-sm-4">
             <a href="#">
-                <img class="d-block img-fluid" src="./assets/carousel/WeCare.jpg" alt="We Care">
+                <img class="d-block img-fluid" src="./assets/projects/Donations-and-Relief-Operations.jpg" alt="We Care">
                 <h5>Donation & Relief Operations</h5>
             </a>
         </div>
 
         <div class="col-sm-4">
             <a href="#">
-                <img class="d-block img-fluid" src="./assets/carousel/WeCare.jpg" alt="We Care">
+                <img class="d-block img-fluid" src="./assets/projects/Adopt-a-Family.jpg" alt="We Care">
                 <h5>Adopt-a-Family</h5>
             </a>
         </div>
@@ -196,27 +163,28 @@
         <div class="col-sm-12 projectsAll">
             <a href="#" class="btn btn-primary">VIEW ALL PROJECTS</a>
         </div>
+    <div>
 
-        <div class="row projects1">
+
+    <div class="row projects1">
         <div class="col-sm-4">
             <a href="#">
-                <img class="d-block img-fluid" src="./assets/carousel/WeCare.jpg" alt="We Care">
+                <img class="d-block img-fluid" src="./assets/projects/3Cs_a.jpg" alt="We Care">
             </a>
         </div>
 
         <div class="col-sm-4">
             <a href="#">
-                <img class="d-block img-fluid" src="./assets/carousel/WeCare.jpg" alt="We Care">
+                <img class="d-block img-fluid" src="./assets/projects/unwind.jpg" alt="We Care">
             </a>
         </div>
 
         <div class="col-sm-4">
             <a href="#">
-                <img class="d-block img-fluid" src="./assets/carousel/WeCare.jpg" alt="We Care">
+                <img class="d-block img-fluid" src="./assets/projects/unwind.jpg" alt="We Care">
             </a>
         </div>
-    </div>
+    <div>
     <!-- end Projects -->
     
-
 </div>

@@ -1,3 +1,19 @@
+body{
+    background-color: #fbf2e2;
+}
+
+@media only screen and (max-width: 600px) {
+    .carousel-text{
+        padding-left: 100px;
+        color:  #573a1a;
+        margin-bottom: 2em;
+    }
+  }
+
+.content-wrapper{
+    padding-top: 5em;
+}
+/* -------------- HOME -------------- */
 .carousel-control-prev{
     height: 100px;
     width: 100px;
@@ -9,7 +25,6 @@
 }
 
 .carousel-inner .carousel-item{
-    background-color: #fbf2e2;
     margin-bottom: 5em;
 }
 
@@ -31,11 +46,6 @@
 .carousel-inner .carousel-item img {
     padding: 0px;
     /* height:360px; */
-}
-
-.fixed-bottom {
-    background-color: #573a1a;
-    color: white;
 }
 
 .video{
@@ -61,12 +71,11 @@
 }
 .accomplishments{
     margin: auto;
-    background-color: #fbf2e2;
     margin-bottom: 5em;
     height: 400px;
 }
 
-.accomplishments i{
+.accomplishmentsIcon{
     color:  #573a1a;
     text-align: center;
     padding: 30px;
@@ -98,7 +107,6 @@
 }
 .medical{
     margin: auto;
-    background-color: #fbf2e2;
     margin-bottom: 5em;
     /* height: 350px; */
     height: 100px;
@@ -136,10 +144,7 @@
 
 .projects{
     margin: auto;
-    background-color: #fbf2e2;
-    margin-bottom: 5em;
     /* height: 350px; */
-    height: 400px;
 }
 
 .projectsAll{
@@ -164,8 +169,71 @@
 
 .projects1{
     margin: auto;
-    background-color: #fbf2e2;
-    margin-bottom: 5em;
     /* height: 350px; */
-    height: 300px;
+}
+
+.projects1 img{
+    padding-bottom: 20px;
+}
+
+/* -------------- END HOME -------------- */
+
+/* -------------- END ABOUT US -------------- */
+.imageContent{
+    margin-bottom: 5em;
+}
+
+.imageContent img{
+    width: 500px;
+    height: 500px;
+}
+
+.imageContent p{
+    padding-right: 2em;
+    padding-right: 2em;
+    font-size: 30px;
+}
+
+.aboutAccomplishments{
+    margin-bottom: 5em;
+}
+
+.aboutAccomplishments h1{
+    padding-left: 5em;
+}
+
+.aboutAccomplishments table, th, td{
+    text-align: center;
+    border: solid black 2px;
+    width: 800px;
+    height: 50px;
+    margin: auto;
+    background-color: lightblue;
+}
+.aboutAccomplishments  th{
+    background-color: lightseagreen;
+}
+
+.total{
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.aboutPrograms{
+    margin-bottom: 5em;
+}
+
+.aboutPrograms h1{
+    text-align: center;
+}
+
+.aboutPrograms h2{
+    padding-left: 5em;
+}
+/* -------------- END ABOUT US -------------- */
+
+.footer {
+    width: 100%;
+    background-color: #573a1a;
+    color: white;
 }

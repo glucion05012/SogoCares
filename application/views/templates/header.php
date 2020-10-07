@@ -21,7 +21,7 @@
   <body>
 
   <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="<?php echo base_url(); ?>"><img src="<?= base_url('assets/logos/sogoCares.png'); ?>" width="50" height="50"><img src="<?= base_url('assets/logos/sogoSafe.jpg'); ?>" width="100" height="50"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -41,7 +41,7 @@
         <a class="nav-link" href="#">NEWS</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">ABOUT</a>
+        <a class="nav-link" href="<?php echo base_url(); ?>aboutus">ABOUT US</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">CONTACT</a>
