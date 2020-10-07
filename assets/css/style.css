@@ -3,15 +3,36 @@ body{
 }
 
 @media only screen and (max-width: 600px) {
+
+    /* HOME */
     .carousel-text{
         padding-left: 100px;
         color:  #573a1a;
         margin-bottom: 2em;
     }
+    /* END HOME */
+
+    /* ABOUT US */
+    .imageContent img{
+        width: 100% !important;
+        height: 500px !important;
+        margin: auto;
+    }
+
+    .imageContent p{
+        width: 100% !important;
+        padding:1em;
+        text-align: center;
+        margin: auto;
+    }
+    /* END ABOUT US */
   }
 
 .content-wrapper{
     padding-top: 5em;
+    
+    padding-left: 20px;
+    padding-right: 20px;
 }
 /* -------------- HOME -------------- */
 .carousel-control-prev{
@@ -72,7 +93,6 @@ body{
 .accomplishments{
     margin: auto;
     margin-bottom: 5em;
-    height: 400px;
 }
 
 .accomplishmentsIcon{
@@ -109,32 +129,6 @@ body{
     margin: auto;
     margin-bottom: 5em;
     /* height: 350px; */
-    height: 100px;
-}
-
-.medical .card{
-    margin: 2em;
-    width: 18rem;
-    height: 12rem;
-}
-
-.medical .card-body{
-    text-align: center;
-}
-
-.medical .card .card-body a{
-    color:  #573a1a;
-    background-color:  white;
-    border:  #573a1a 2px solid;
-}
-
-.medicalAll{
-    text-align: center;
-}
-
-.medicalAll a{
-    background-color:  #573a1a;
-    border:  #573a1a;
 }
 
 .projectstxt{
@@ -196,16 +190,16 @@ body{
 
 .aboutAccomplishments{
     margin-bottom: 5em;
+    padding: 10px;
 }
 
 .aboutAccomplishments h1{
-    padding-left: 5em;
+    text-align: center;
 }
 
 .aboutAccomplishments table, th, td{
     text-align: center;
     border: solid black 2px;
-    width: 800px;
     height: 50px;
     margin: auto;
     background-color: lightblue;
@@ -227,10 +221,23 @@ body{
     text-align: center;
 }
 
-.aboutPrograms h2{
-    padding-left: 5em;
+.brLine{
+    border-top:  #573a1a solid 2px;
+    width: 80%;
+    margin: auto;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.programTxt p{
+    font-size: 20px;
 }
 /* -------------- END ABOUT US -------------- */
+
+.title{
+ text-align: center;
+ padding-top: 20px;
+}
 
 .footer {
     width: 100%;

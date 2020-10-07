@@ -113,7 +113,7 @@
         </div>
 
         <div class="col-sm-4">
-        <i class="fas fa-male fa-10x accomplishmentsIcon"></i>
+            <i class="fas fa-male fa-10x accomplishmentsIcon"></i>
             <p>86,931</p>
             <div class="ln"></div>
             <h3>Beneficiaries</h3>
@@ -163,7 +163,7 @@
         <div class="col-sm-12 projectsAll">
             <a href="#" class="btn btn-primary">VIEW ALL PROJECTS</a>
         </div>
-    <div>
+    </div>
 
 
     <div class="row projects1">
@@ -184,7 +184,7 @@
                 <img class="d-block img-fluid" src="./assets/projects/unwind.jpg" alt="We Care">
             </a>
         </div>
-    <div>
+    </div>
     <!-- end Projects -->
     
 </div>
