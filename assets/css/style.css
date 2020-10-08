@@ -1,5 +1,6 @@
 body{
     background-color: #fbf2e2;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 @media only screen and (max-width: 600px) {
@@ -9,6 +10,11 @@ body{
         padding-left: 100px;
         color:  #573a1a;
         margin-bottom: 2em;
+    }
+
+    .accomplishmentstxt{
+        text-align: center !important;
+        font-size: 40px;
     }
     /* END HOME */
 
@@ -200,17 +206,20 @@ body{
 .aboutAccomplishments table, th, td{
     text-align: center;
     border: solid black 2px;
+    padding: 20px;
     height: 50px;
     margin: auto;
-    background-color: lightblue;
+    background-color: white;
+    
 }
 .aboutAccomplishments  th{
-    background-color: lightseagreen;
+    color:white;
+    background-color: #573a1a;
 }
 
 .total{
     font-weight: bold;
-    background-color: yellow;
+    background-color: #FFFF66;
 }
 
 .aboutPrograms{
@@ -233,6 +242,17 @@ body{
     font-size: 20px;
 }
 /* -------------- END ABOUT US -------------- */
+
+/* -------------- END EVENTS -------------- */
+.eventBanner img{
+    padding-top: 5em;
+    width: 100%;
+}
+
+.eventImg img{
+    margin-bottom: 5em;
+}
+/* -------------- END EVENTS -------------- */
 
 .title{
  text-align: center;

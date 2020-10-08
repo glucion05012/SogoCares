@@ -59,7 +59,6 @@
                     <td class="total">86,931</td>
                 </tr>
             </table>
-            <h1>Site Visited: 300</h1>
         </div>
     </div>
 
