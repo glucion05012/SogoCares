@@ -14,7 +14,7 @@ body{
 
     .accomplishmentstxt{
         text-align: center !important;
-        font-size: 40px;
+        font-size: 30px;
     }
     /* END HOME */
 
@@ -30,6 +30,14 @@ body{
         padding:1em;
         text-align: center;
         margin: auto;
+    }
+
+    .aboutAccomplishments table, th, td{
+        text-align: center;
+        border: solid black 2px;
+        height: 50px;
+        margin: auto;
+        font-size: 10px;
     }
     /* END ABOUT US */
   }
@@ -209,9 +217,9 @@ body{
     padding: 20px;
     height: 50px;
     margin: auto;
-    background-color: white;
-    
+    background-color: white; 
 }
+
 .aboutAccomplishments  th{
     color:white;
     background-color: #573a1a;
