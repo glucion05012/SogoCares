@@ -79,8 +79,8 @@ body{
 }
 
 .carousel-inner .carousel-item button {
-    background-color:  #573a1a;
-    border:  #573a1a;
+    background-color:  #573a1a !important;
+    border:  #573a1a !important;
 }
 
 .carousel-inner .carousel-item img {
@@ -192,6 +192,14 @@ body{
 /* -------------- END HOME -------------- */
 
 /* -------------- END ABOUT US -------------- */
+
+.programs_title{
+    border: black solid 2px;
+    background-color: #573a1a;
+    color: white;
+    margin-bottom: 1em;
+}
+
 .imageContent{
     margin-bottom: 5em;
 }
@@ -243,6 +251,10 @@ body{
     text-align: center;
 }
 
+.aboutPrograms h2{
+    text-align: center;
+}
+
 .brLine{
     border-top:  #573a1a solid 2px;
     width: 80%;
@@ -265,9 +277,6 @@ body{
 
 /* -------------- PROJECTS -------------- */
 
-.projectImg img{
-    margin-bottom: 5em;
-}
 /* -------------- END PROJECTS -------------- */
 
 .footer {

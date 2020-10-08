@@ -12,8 +12,10 @@
                 <div class="row align-items-center">
                     <div class="col-sm-4 carousel-text" >
                         <h1>We<br/>Care.</h1>
-                        <button class="btn btn-primary">LEARN MORE</button>
-                        
+                        <a href="<?php echo base_url(); ?>aboutus">
+                            <button class="btn btn-primary" href="<?php echo base_url(); ?>aboutus">LEARN MORE</button>
+                        </a>
+
                         <a class="carousel-control-prev" href="#carouselHome" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
@@ -32,7 +34,9 @@
                 <div class="row align-items-center">
                     <div class="col-sm-4 carousel-text">
                         <h1>We<br/>Help.</h1>
-                        <button class="btn btn-primary" >LEARN MORE</button>
+                        <a href="<?php echo base_url(); ?>aboutus">
+                            <button class="btn btn-primary" >LEARN MORE</button>
+                        </a>
 
                         <a class="carousel-control-prev" href="#carouselHome" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -52,7 +56,9 @@
                 <div class="row align-items-center">
                     <div class="col-sm-4 carousel-text">
                         <h1>We<br/>Listen.</h1>
-                        <button class="btn btn-primary">LEARN MORE</button>
+                        <a href="<?php echo base_url(); ?>aboutus">
+                            <button class="btn btn-primary" href="<?php echo base_url(); ?>aboutus">LEARN MORE</button>
+                        </a>
 
                         <a class="carousel-control-prev" href="#carouselHome" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -140,48 +146,48 @@
             <h1 class="projectstxt">Projects</h1>
         </div>
         <div class="col-sm-4">
-            <a href="#">
+            <a href="<?php echo base_url(); ?>projects">
                 <img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care">
                 <h5>Doctors-on-Wheels</h5>
             </a>
         </div>
 
         <div class="col-sm-4">
-            <a href="#">
+            <a href="<?php echo base_url(); ?>projects">
                 <img class="d-block img-fluid" src="./assets/projects/Donations-and-Relief-Operations.jpg" alt="We Care">
                 <h5>Donation & Relief Operations</h5>
             </a>
         </div>
 
         <div class="col-sm-4">
-            <a href="#">
+            <a href="<?php echo base_url(); ?>projects">
                 <img class="d-block img-fluid" src="./assets/projects/Adopt-a-Family.jpg" alt="We Care">
                 <h5>Adopt-a-Family</h5>
             </a>
         </div>
 
         <div class="col-sm-12 projectsAll">
-            <a href="#" class="btn btn-primary">VIEW ALL PROJECTS</a>
+            <a href="<?php echo base_url(); ?>projects" class="btn btn-primary">VIEW ALL PROJECTS</a>
         </div>
     </div>
 
 
     <div class="row projects1">
         <div class="col-sm-4">
-            <a href="#">
+            <a href="https://www.facebook.com/sogocares" target="_blank">
                 <img class="d-block img-fluid" src="./assets/projects/3Cs_a.jpg" alt="We Care">
             </a>
         </div>
 
         <div class="col-sm-4">
-            <a href="#">
+            <a href="https://www.facebook.com/sogocares" target="_blank">
                 <img class="d-block img-fluid" src="./assets/projects/unwind.jpg" alt="We Care">
             </a>
         </div>
 
         <div class="col-sm-4">
-            <a href="#">
-                <img class="d-block img-fluid" src="./assets/projects/unwind.jpg" alt="We Care">
+            <a href="https://www.facebook.com/sogocares" target="_blank">
+                <img class="d-block img-fluid" src="./assets/projects/80_days.jpg" alt="We Care">
             </a>
         </div>
     </div>

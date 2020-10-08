@@ -6,10 +6,8 @@
        
       <div class="navbar-nav ml-auto">
         <span>
-          <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f" style="color: white;"></i></a>
-          <a href="https://twitter.com/" target="_blank"><i class="fab fa-twitter" style="color: white;"></i></a>
-          <a href="https://www.pinterest.ph/" target="_blank"><i class="fab fa-pinterest-p" style="color: white;"></i></a>
-          <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram" style="color: white;"></i></a>
+          <a href="https://www.facebook.com/sogocares" target="_blank"><i class="fab fa-facebook-f" style="color: white;"></i></a>
+          <a href="https://www.instagram.com/sogo.cares/?hl=en" target="_blank"><i class="fab fa-instagram" style="color: white;"></i></a>
         </span>
       </div>
     </footer>

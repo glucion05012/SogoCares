@@ -61,21 +61,24 @@
 
     <div class="row aboutPrograms">
         <div class="col-md-12">
-            <h1>Programs</h1>
+            <div class="programs_title">
+                <h1>Programs</h1>
+            </div>
         </div>
 
-        <div class="col-md-12">
+        <div class="col-md-6"></div>
+        <div class="col-md-6">
             <h2>Doctors on Wheels</h2>
         </div>
         <div class="col-md-6">
             <table>
                 <tr>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Doctors_on_Wheels/1.jpg" alt="Doctors_on_Wheels"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Doctors_on_Wheels/2.jpg" alt="Doctors_on_Wheels"></td>
                 </tr>
                 <tr>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Doctors_on_Wheels/3.jpg" alt="Doctors_on_Wheels"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Doctors_on_Wheels/4.jpg" alt="Doctors_on_Wheels"></td>
                 </tr>
             </table>
            
@@ -95,9 +98,10 @@
 
         <div class="brLine"></div>
 
-        <div class="col-md-12">
+        <div class="col-md-6">
             <h2>Adopt-a-Family</h2>
         </div>
+        <div class="col-md-6"></div>
 
         <div class="col-md-6 programTxt">
             <p>Under the roster of the Sogo Cares, are also different advocacies and 
@@ -111,30 +115,31 @@
         <div class="col-md-6">
             <table>
                 <tr>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Adopt_a_Family/1.jpg" alt="Adopt_a_Family"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Adopt_a_Family/2.jpg" alt="Adopt_a_Family"></td>
                 </tr>
                 <tr>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Adopt_a_Family/3.jpg" alt="Adopt_a_Family"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Adopt_a_Family/4.jpg" alt="Adopt_a_Family"></td>
                 </tr>
             </table>
         </div>
 
         <div class="brLine"></div>
 
-        <div class="col-md-12">
+        <div class="col-md-6"></div>
+        <div class="col-md-6">
             <h2>Balik Eskwela</h2>
         </div>
         <div class="col-md-6">
             <table>
                 <tr>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Balik_Eskwela/1.jpg" alt="Balik_Eskwela"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Balik_Eskwela/2.jpg" alt="Balik_Eskwela"></td>
                 </tr>
                 <tr>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Balik_Eskwela/3.jpg" alt="Balik_Eskwela"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Balik_Eskwela/4.jpg" alt="Balik_Eskwela"></td>
                 </tr>
             </table>
            
@@ -148,9 +153,10 @@
 
         <div class="brLine"></div>
 
-        <div class="col-md-12">
+        <div class="col-md-6">
             <h2>Donations & Relief Operations</h2>
         </div>
+        <div class="col-md-6"></div>
 
         <div class="col-md-6 programTxt">
             <p>Hotel Sogo goes back to its roots and gives back what the company offers best – a renowned service for others.<br><br>
@@ -174,7 +180,8 @@
 
         <div class="brLine"></div>
 
-        <div class="col-md-12">
+        <div class="col-md-6"></div>
+        <div class="col-md-6">
             <h2>PNP Heroes Assistance</h2>
         </div>
         <div class="col-md-6">
