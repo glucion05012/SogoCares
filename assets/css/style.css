@@ -143,6 +143,17 @@ body{
         font-size: 10px;
     }
     /* END ABOUT US */
+
+    /* PROJECTS */
+    .modal-body img{
+        padding: 2px 16px;
+        width: 300px;
+      }
+
+      .modal-body img:hover{
+        transform: scale(1.5);
+      }
+    /* END PROJECTS */
   }
 
 .content-wrapper{
