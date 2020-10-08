@@ -3,6 +3,11 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.banner img{
+    padding-top: 5em;
+    width: 100%;
+}
+
 @media only screen and (max-width: 600px) {
 
     /* HOME */
@@ -251,21 +256,19 @@ body{
 }
 /* -------------- END ABOUT US -------------- */
 
-/* -------------- END EVENTS -------------- */
-.eventBanner img{
-    padding-top: 5em;
-    width: 100%;
-}
+/* -------------- EVENTS -------------- */
 
 .eventImg img{
     margin-bottom: 5em;
 }
 /* -------------- END EVENTS -------------- */
 
-.title{
- text-align: center;
- padding-top: 20px;
+/* -------------- PROJECTS -------------- */
+
+.projectImg img{
+    margin-bottom: 5em;
 }
+/* -------------- END PROJECTS -------------- */
 
 .footer {
     width: 100%;

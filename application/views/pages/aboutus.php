@@ -1,10 +1,7 @@
+<div class="banner">
+    <img src="./assets/banners/about_us.jpg" alt="Banner">
+</div>
 <div class="content-wrapper">
-    <div class="title">
-        <h1>ABOUT US</h1>
-    </div>
-    <div class="brLine"></div>
-
-
     <div class="row imageContent">
         <div class="col-md-6">
             <img src="<?= base_url('assets/logos/sogoCares.png'); ?>">

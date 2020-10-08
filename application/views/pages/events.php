@@ -1,5 +1,5 @@
-<div class="eventBanner">
-    <img src="./assets/events/event_banner.jpg" alt="Banner">
+<div class="banner">
+    <img src="./assets/banners/event.jpg" alt="Banner">
 </div>
 <div class="content-wrapper">
     
