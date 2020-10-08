@@ -35,7 +35,7 @@
         <a class="nav-link" href="<?php echo base_url(); ?>events">EVENTS</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="<?php echo base_url(); ?>events">PROJECTS</a>
+        <a class="nav-link" href="<?php echo base_url(); ?>projects">PROJECTS</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">NEWS</a>

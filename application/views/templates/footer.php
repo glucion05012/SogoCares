@@ -14,6 +14,27 @@
     </footer>
 
 
+    <script>
+      function myBtn($name) {
+        var modal=$name;  
+        
+        modal = document.getElementById(modal);
+
+        modal.style.display = "block";
+
+        window.onclick = function(event) {
+          if (event.target == modal) {
+            modal.style.display = "none";
+          }
+        }
+      }
+
+      function closeModal($name) {
+        var modal=$name;  
+        modal = document.getElementById(modal);
+        modal.style.display = "none";
+        }
+    </script>
 
  <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
