@@ -442,6 +442,28 @@ body{
 }
 /* -------------- END NEWS_PAGE -------------- */
 
+/* -------------- CONTACT -------------- */
+.contact {
+ margin-bottom: 5em;
+}
+
+.contact input{
+    width: 80%;
+    margin-top: 1em;
+}
+
+.contact textarea{
+    width: 80%;
+    margin-top: 1em;
+}
+
+.contact button{
+    background-color: #573a1a;
+    color: white;
+    width: 100px;
+}
+/* -------------- END CONTACT -------------- */
+
 .footer {
     width: 100%;
     background-color: #573a1a;

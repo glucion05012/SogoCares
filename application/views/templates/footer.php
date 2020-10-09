@@ -13,7 +13,7 @@
       </div>
     </footer>
 
-
+    <!-- projects modal -->
     <script>
       function myBtn($name) {
         var modal=$name;  
@@ -35,6 +35,8 @@
         modal.style.display = "none";
         }
     </script>
+
+
 
  <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

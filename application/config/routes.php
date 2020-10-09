@@ -11,3 +11,5 @@ $route['projects'] = 'sogocontroller/projects';
 $route['contact'] = 'sogocontroller/contact';
 $route['news'] = 'sogocontroller/news';
 $route['news/(:any)'] = 'sogocontroller/news_page/$1';
+
+$route['sendEmail'] = 'sogocontroller/sendEmail';
