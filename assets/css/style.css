@@ -87,9 +87,20 @@ body{
     margin-bottom: 2em;
 }
 
+
 .fixed-top{
-    background-color: red !important;
+    background-image: url("../banners/header.jpg") !important;
+    
+    width: auto;
+    background-size: contain !important;
     border-bottom:  #FFFF66 3px solid !important;
+}
+
+@media only screen and (max-width: 992px) {
+    .fixed-top{
+        background-image: url("") !important;
+        background-color: red !important;
+    }
 }
 
 .navbar-nav .nav-link{

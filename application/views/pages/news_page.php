@@ -11,7 +11,7 @@ if($title == 1){
     To find out more about this and other Hotel Sogo’s campaigns, visit our website at www.hotelsogo.com or like and follow us on Facebook page @HotelSogoOfficialPage, Twitter and Instagram @hotelsogo, and Youtube account @OfficialHotelSogo.
     ';
     $image1 = '../assets/news/Supports_DOH/1.jpg';
-    $image2 = '../assets/image_here.png';
+    $image2 = '../assets/news/Supports_DOH/2.jpg';
 }else if($title == 2){
     $header = 'Hotel Sogo rolls out approved “New Normal” policies in all branches';
     $content = 'Hotel Sogo CEO Reynaldo Malaca announced that the company has prepared its new normal policies to be implemented in all of its branches nationwide in lieu of the announcement of General Community Quarantine (GCQ) and Modified Enhance Community Quarantine (ECQ) in some areas of Luzon.<br><br>
@@ -112,7 +112,23 @@ if($title == 1){
     
     Hotel Sogo unveiled new measures to re-establish confidence in the hotel industry as they adapt to the “new normal” state. <br><br>
     
-    As part of their “So Clean, So Good, So Safe” campaign under its Sogo So Safe Program, Hotel Sogo continuously achieving meaningful action plans by optimizing hotel protocols across its branches nationwide. This immediate response was established to fully secure the safety of its employees especially all the frontliners, OFWs, and seafarer repatriates who are currently sheltering in their hotels. 
+    As part of their “So Clean, So Good, So Safe” campaign under its Sogo So Safe Program, Hotel Sogo continuously achieving meaningful action plans by optimizing hotel protocols across its branches nationwide. This immediate response was established to fully secure the safety of its employees especially all the frontliners, OFWs, and seafarer repatriates who are currently sheltering in their hotels. <br><br>
+    <strong>The partner of choice</strong><br><br>
+
+    As the evolving situation continues, Hotel Sogo is on its track to be the partner of choice of various government agencies, hospitals, and private sectors in addressing pandemic issues in the country in terms of shelter demand. <br><br>
+
+    Intervention such as the provision of free room accommodations to our frontliners was in collaboration with various local government units and hospitals across the country. <br><br>
+
+    Hotel Sogo is closely coordinating with the Department of Health (DOH), Overseas Workers Welfare Administration (OWWA), and the Department of Tourism (DOT) for the welfare of all frontliners and OFWs sheltering in the hotel as new normal protocols are being implemented. <br><br>
+
+    Some medical practitioners and LGUs have also commended Hotel Sogo’s new normal response for it may serve as a benchmark to other hotels and lodging establishments in adapting the new normal state. <br><br>
+    
+    <strong>So Clean…So Good…So Safe</strong><br><br>
+
+    Hotel Sogo is always envisioning a future of hotel stay which is clean and safe and provides a quality and meaningful experience to its guests —making it their home away from home. <br><br>
+
+    To find out more about Hotel Sogo, visit its website at www.hotelsogo.com or like and follow us on Facebook page @HotelSogoOfficialPage, Twitter, and Instagram @hotelsogo, and Youtube account @OfficialHotelSogo.
+
     ';
     $image1 = '../assets/news/Hotel_Like_no_other/1.jpg';
     $image2 = '../assets/news/Hotel_Like_no_other/2.jpg';
