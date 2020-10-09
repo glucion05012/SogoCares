@@ -39,7 +39,7 @@
         </div>
         <div class="col-sm-4">
             <button>
-                <img class="d-block img-fluid" src="./assets/image_here.png" alt="See More">
+                <img class="d-block img-fluid" src="./assets/projects/view_more.jpg" alt="See More">
                 <h5>See More</h5>
             </button>
         </div>

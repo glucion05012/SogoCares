@@ -168,12 +168,12 @@
         <div class="col-md-6">
             <table>
                 <tr>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Donation/1.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Donation/2.jpg" alt="We Care"></td>
                 </tr>
                 <tr>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Donation/3.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Donation/4.jpg" alt="We Care"></td>
                 </tr>
             </table>
         </div>
@@ -187,12 +187,12 @@
         <div class="col-md-6">
             <table>
                 <tr>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/PNP_Heroes/1.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/PNP_Heroes/2.jpg" alt="We Care"></td>
                 </tr>
                 <tr>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
-                    <td><img class="d-block img-fluid" src="./assets/projects/Doctors-on-Wheels.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/PNP_Heroes/3.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/PNP_Heroes/4.jpg" alt="We Care"></td>
                 </tr>
             </table>
            

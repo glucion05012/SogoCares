@@ -154,6 +154,17 @@ body{
         transform: scale(1.5);
       }
     /* END PROJECTS */
+
+    /* NEWS */
+    .news{  
+        padding-left: 2em !important;
+        padding-right: 2em !important;
+    }
+
+    .news img{
+        margin: auto;
+    }
+    /* END NEWS */
   }
 
 .content-wrapper{
@@ -385,9 +396,40 @@ body{
 }
 /* -------------- END EVENTS -------------- */
 
-/* -------------- PROJECTS -------------- */
+/* -------------- NEWS -------------- */
+.news{  
+    padding-left: 5em;
+    padding-right: 5em;
+}
 
-/* -------------- END PROJECTS -------------- */
+.news img{
+    width: 150px;
+}
+
+.brLineNews{
+    border-top:  gray solid 2px;
+    width: 80%;
+    margin: auto;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    opacity: .5;
+}
+/* -------------- END NEWS -------------- */
+
+/* -------------- NEWS_PAGE -------------- */
+.newsPage{
+    padding: 2em;
+}
+
+.newsPage h1{
+    padding: 1em;
+    text-align: center;
+}
+
+.newsPage img{
+    padding: 20px;
+}
+/* -------------- END NEWS_PAGE -------------- */
 
 .footer {
     width: 100%;

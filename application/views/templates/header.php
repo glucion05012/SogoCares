@@ -38,13 +38,13 @@
         <a class="nav-link" href="<?php echo base_url(); ?>projects">PROJECTS</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">NEWS</a>
+        <a class="nav-link" href="<?php echo base_url(); ?>news">NEWS</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="<?php echo base_url(); ?>aboutus">ABOUT US</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">CONTACT</a>
+        <a class="nav-link" href="<?php echo base_url(); ?>contact">CONTACT</a>
       </li>
     </ul>
   </div>
