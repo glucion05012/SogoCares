@@ -55,6 +55,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
             $mail->isSMTP();
             $mail->Host = 'smtp.gmail.com';
+            // $mail->Host = 'a2plcpnl0807.prod.iad2.secureserver.net';
             $mail->SMTPAuth = true;
             $mail->Username = 'sogocaresinquiry@gmail.com';
             $mail->Password = 'sogocaresinquiry123';
