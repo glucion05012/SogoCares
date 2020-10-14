@@ -41,7 +41,7 @@
             <a href="https://www.facebook.com/sogocares" target="_blank">
             <button>
                 <img class="d-block img-fluid" src="./assets/projects/view_more.jpg" alt="See More">
-                <h5>See More</h5>
+                <h5>____</h5>
             </button>
             </a>
         </div>
