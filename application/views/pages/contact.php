@@ -4,8 +4,7 @@
 <div class="content-wrapper">
     <div class="row contact">
         <div class="col-sm-6 left">
-            <img class="img-fluid" src="./assets/image_here.png" alt="See More">
-            <h5>Company Address:<br>629 EDSA Cubao, Quezon City.<br>1111 Metro Manila</h5>
+            <img class="img-fluid" src="./assets/contact/map_contactus.jpg" alt="See More">
         </div>
         <div class="col-sm-6">
             <form action="<?php echo base_url(); ?>sendEmail" method="post" accept-charset="utf-8">
