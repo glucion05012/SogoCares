@@ -245,11 +245,11 @@ body{
     margin-bottom: 5em;
 }
 
-.accomplishmentsIcon{
-    color:  #573a1a;
+.accomplishments img{
     text-align: center;
+    margin: auto;
     padding: 30px;
-    width: 100%;
+    width: 80%;
 }
 
 .accomplishments p{
@@ -370,6 +370,11 @@ body{
     background-color: #573a1a;
 }
 
+.aboutMap img{
+    margin: auto;
+    padding: 2em;
+}
+
 .total{
     font-weight: bold;
     background-color: #FFFF66;
@@ -380,10 +385,6 @@ body{
 }
 
 .aboutPrograms h1{
-    text-align: center;
-}
-
-.aboutPrograms h2{
     text-align: center;
 }
 

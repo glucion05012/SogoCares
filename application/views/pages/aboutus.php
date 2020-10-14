@@ -59,6 +59,10 @@
         </div>
     </div>
 
+    <div class="col-md-12 aboutMap" >
+        <img class="d-block img-fluid" src="./assets/aboutus/sogocaresmap.jpg" alt="Doctors_on_Wheels">
+    </div>
+
     <div class="row aboutPrograms">
         <div class="col-md-12">
             <div class="programs_title">
@@ -66,17 +70,12 @@
             </div>
         </div>
 
-        <div class="col-md-6"></div>
-        <div class="col-md-6">
-            <h2>Doctors on Wheels</h2>
-        </div>
-        <div class="col-md-6">
+        
+        <div class="col-md-12">
             <table>
                 <tr>
                     <td><img class="d-block img-fluid" src="./assets/aboutus/Doctors_on_Wheels/1.jpg" alt="Doctors_on_Wheels"></td>
                     <td><img class="d-block img-fluid" src="./assets/aboutus/Doctors_on_Wheels/2.jpg" alt="Doctors_on_Wheels"></td>
-                </tr>
-                <tr>
                     <td><img class="d-block img-fluid" src="./assets/aboutus/Doctors_on_Wheels/3.jpg" alt="Doctors_on_Wheels"></td>
                     <td><img class="d-block img-fluid" src="./assets/aboutus/Doctors_on_Wheels/4.jpg" alt="Doctors_on_Wheels"></td>
                 </tr>
@@ -85,7 +84,11 @@
 
         </div>
 
-        <div class="col-md-6 programTxt">
+        <div class="col-md-12">
+            <h2>Doctors on Wheels</h2>
+        </div>
+
+        <div class="col-md-12 programTxt">
             <p>Bannering the Sogo Cares program is the Doctors-on-Wheels (DOW) that focuses on providing free medical consultations, 
             laboratory examinations and medications to underserved communities throughout the Philippines. <br><br> The DOW is a 
             mobile medical air-conditioned bus that is equipped and furnished with examining beds, 10 examining chairs, 
@@ -98,12 +101,21 @@
 
         <div class="brLine"></div>
 
-        <div class="col-md-6">
+        <div class="col-md-12">
+            <table>
+                <tr>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Adopt_a_Family/1.jpg" alt="Adopt_a_Family"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Adopt_a_Family/2.jpg" alt="Adopt_a_Family"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Adopt_a_Family/3.jpg" alt="Adopt_a_Family"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Adopt_a_Family/4.jpg" alt="Adopt_a_Family"></td>
+                </tr>
+            </table>
+        </div>
+        <div class="col-md-12">
             <h2>Adopt-a-Family</h2>
         </div>
-        <div class="col-md-6"></div>
 
-        <div class="col-md-6 programTxt">
+        <div class="col-md-12 programTxt">
             <p>Under the roster of the Sogo Cares, are also different advocacies and 
                 humanitarian activities such as the <strong>ADOPT A FAMILY PROGRAM</strong>. <br><br>
                 <strong>Adopt-a-Family</strong> is a yearly Christmas special program wherein the company 
@@ -112,94 +124,69 @@
                 branch manager/supervisor.</p>
         </div>
 
-        <div class="col-md-6">
-            <table>
-                <tr>
-                    <td><img class="d-block img-fluid" src="./assets/aboutus/Adopt_a_Family/1.jpg" alt="Adopt_a_Family"></td>
-                    <td><img class="d-block img-fluid" src="./assets/aboutus/Adopt_a_Family/2.jpg" alt="Adopt_a_Family"></td>
-                </tr>
-                <tr>
-                    <td><img class="d-block img-fluid" src="./assets/aboutus/Adopt_a_Family/3.jpg" alt="Adopt_a_Family"></td>
-                    <td><img class="d-block img-fluid" src="./assets/aboutus/Adopt_a_Family/4.jpg" alt="Adopt_a_Family"></td>
-                </tr>
-            </table>
-        </div>
-
         <div class="brLine"></div>
 
-        <div class="col-md-6"></div>
-        <div class="col-md-6">
-            <h2>Balik Eskwela</h2>
-        </div>
-        <div class="col-md-6">
+        <div class="col-md-12">
             <table>
                 <tr>
                     <td><img class="d-block img-fluid" src="./assets/aboutus/Balik_Eskwela/1.jpg" alt="Balik_Eskwela"></td>
                     <td><img class="d-block img-fluid" src="./assets/aboutus/Balik_Eskwela/2.jpg" alt="Balik_Eskwela"></td>
-                </tr>
-                <tr>
                     <td><img class="d-block img-fluid" src="./assets/aboutus/Balik_Eskwela/3.jpg" alt="Balik_Eskwela"></td>
                     <td><img class="d-block img-fluid" src="./assets/aboutus/Balik_Eskwela/4.jpg" alt="Balik_Eskwela"></td>
                 </tr>
             </table>
-           
-
         </div>
 
-        <div class="col-md-6 programTxt">
+        <div class="col-md-12">
+            <h2>Balik Eskwela</h2>
+        </div>
+
+        <div class="col-md-12 programTxt">
             <p>A program of Hotel Sogo that focuses in encouraging children and giving hope to students alike thru generously 
                 donating school supplies to needy barangays.</p>
         </div>
 
         <div class="brLine"></div>
 
-        <div class="col-md-6">
+        <div class="col-md-12">
+            <table>
+                <tr>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Donation/1.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Donation/2.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Donation/3.jpg" alt="We Care"></td>
+                    <td><img class="d-block img-fluid" src="./assets/aboutus/Donation/4.jpg" alt="We Care"></td>
+                </tr>
+            </table>
+        </div>
+        <div class="col-md-12">
             <h2>Donations & Relief Operations</h2>
         </div>
-        <div class="col-md-6"></div>
 
-        <div class="col-md-6 programTxt">
+        <div class="col-md-12 programTxt">
             <p>Hotel Sogo goes back to its roots and gives back what the company offers best – a renowned service for others.<br><br>
             From basic human necessities (i.e. food and clothing) to other kind of assistance, Hotel Sogo is ready to aid 
             indigent-affected individuals after a calamity or those local government units, private organizations, 
             and even NGOs in need of help.</p>
         </div>
 
-        <div class="col-md-6">
-            <table>
-                <tr>
-                    <td><img class="d-block img-fluid" src="./assets/aboutus/Donation/1.jpg" alt="We Care"></td>
-                    <td><img class="d-block img-fluid" src="./assets/aboutus/Donation/2.jpg" alt="We Care"></td>
-                </tr>
-                <tr>
-                    <td><img class="d-block img-fluid" src="./assets/aboutus/Donation/3.jpg" alt="We Care"></td>
-                    <td><img class="d-block img-fluid" src="./assets/aboutus/Donation/4.jpg" alt="We Care"></td>
-                </tr>
-            </table>
-        </div>
-
         <div class="brLine"></div>
 
-        <div class="col-md-6"></div>
-        <div class="col-md-6">
-            <h2>PNP Heroes Assistance</h2>
-        </div>
-        <div class="col-md-6">
+        
+        <div class="col-md-12">
             <table>
                 <tr>
                     <td><img class="d-block img-fluid" src="./assets/aboutus/PNP_Heroes/1.jpg" alt="We Care"></td>
                     <td><img class="d-block img-fluid" src="./assets/aboutus/PNP_Heroes/2.jpg" alt="We Care"></td>
-                </tr>
-                <tr>
                     <td><img class="d-block img-fluid" src="./assets/aboutus/PNP_Heroes/3.jpg" alt="We Care"></td>
                     <td><img class="d-block img-fluid" src="./assets/aboutus/PNP_Heroes/4.jpg" alt="We Care"></td>
                 </tr>
             </table>
-           
-
+        </div>
+        <div class="col-md-12">
+            <h2>PNP Heroes Assistance</h2>
         </div>
 
-        <div class="col-md-6 programTxt">
+        <div class="col-md-12 programTxt">
             <p>The <strong>PNP Heroes Assistance Program</strong> seeks to recognize and boost the morale of PNP personnel 
             through financial assistance wherein the company allocates to qualified recipients, specifically to wounded, 
             injured, disabled and deceased police personnel in the course of police operations.</p>

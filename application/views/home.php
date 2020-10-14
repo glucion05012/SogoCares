@@ -106,21 +106,21 @@
             <h1 class="accomplishmentstxt">Accomplishments</h1>
         </div>
         <div class="col-sm-4">
-            <i class="fas fa-map-marker-alt fa-10x accomplishmentsIcon"></i>
+            <img class="d-block img-fluid" src="./assets/accomplishments/sitevisited.png" alt="sitevisited">
             <p>300</p>
             <div class="ln"></div>
             <h3>Site Visited</h3>
         </div>
 
         <div class="col-sm-4">
-            <i class="fas fa-plus-square fa-10x accomplishmentsIcon"></i>
+            <img class="d-block img-fluid" src="./assets/accomplishments/medicalmission.png" alt="sitevisited">
             <p>336</p>
             <div class="ln"></div>
             <h3>Medical Mission</h3>
         </div>
 
         <div class="col-sm-4">
-            <i class="fas fa-male fa-10x accomplishmentsIcon"></i>
+            <img class="d-block img-fluid" src="./assets/accomplishments/beneficiaries.png" alt="sitevisited">
             <p>86,931</p>
             <div class="ln"></div>
             <h3>Beneficiaries</h3>
@@ -135,7 +135,9 @@
             <h1 class="medicaltxt">Medical Missions</h1>
         </div>
         <div class="col-sm-12">
-            <p style="color: #573a1a; font-size: 20px; margin:2em;">All medical missions will be postponed until further notice and donation activities will be limited. </p>
+            <p style="color: #573a1a; font-size: 20px; margin:2em;">ALL SOGO CARES ACTIVITIES WILL BE POSTPONED UNTIL FURTHER NOTICE
+In compliance with the order set by the government and in line with our fight against COVID-19, Sogo Cares ceases all its operations in the meantime. For now, we’ll be disseminating informative graphics to increase awareness of the virus. We are all in this together.
+<br><br>#SpreadGoodNews<br>#TogetherWeFight<br>#StopCOVID19</p>
         </div>
     </div>
     <!-- end Medical Mission -->
