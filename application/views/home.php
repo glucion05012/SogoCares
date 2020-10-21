@@ -190,7 +190,7 @@ In compliance with the order set by the government and in line with our fight ag
 
         <div class="col-sm-4">
             <a href="https://www.facebook.com/sogocares" target="_blank">
-                <img class="d-block img-fluid" src="./assets/projects/80_days.jpg" alt="We Care">
+                <img class="d-block img-fluid" src="./assets/projects/staycation2.jpg" alt="We Care">
             </a>
         </div>
     </div>
