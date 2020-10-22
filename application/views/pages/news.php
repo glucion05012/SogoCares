@@ -3,6 +3,11 @@
 </div>
 <div class="content-wrapper">
     <div class="row news">
+
+        <div class="col-sm-12 printNews">
+            <img src="./assets/news/printnews.jpg" alt="Adopt-a-Family">
+        </div>
+
         <div class="col-sm-2">
             <img class="d-block img-fluid" src="./assets/news/Supports_DOH/1.jpg" alt="Adopt-a-Family">
         </div>

@@ -13,6 +13,7 @@
                 <h2>Get in Touch</h2>
                 <input type="text" placeholder="Name" name="senderName"></input>
                 <input type="email" placeholder="Email Address" name="senderEmail"></input>
+                <input type="number" placeholder="Contact Number" name="senderNumber"></input>
                 <textarea name="senderMessage" cols="30" rows="5" placeholder="Message"></textarea>
                 <br>
                 <button type="submit">Submit</button>

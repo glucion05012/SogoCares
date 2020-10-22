@@ -67,15 +67,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
             $mail->setFrom('sogocaresinquiry@gmail.com', 'SogoCares');
 
-            $mail->addAddress('jay.edar@globalcomfortgroup.com');
-            $mail->addCC('scarlett.lucion@gmail.com');
+            $mail->addAddress('sogocaresa@gmail.com');
+            $mail->addCC('jay.edar@globalcomfortgroup.com');
 
             $mail->Subject = 'SOGO Cares Website Inquiry';
 
             $mail->isHTML(true);
 
-            $mailContent = '<h1>'. $this->input->post('senderName') .' - '. $this->input->post('senderEmail') .'</h1>
-                            <p> Message Inquiry: '. $this->input->post('senderMessage') .'</p>';
+            $mailContent =  '<p> Name: '. $this->input->post('senderName') .'</p>
+                            <p> Email Address: '. $this->input->post('senderEmail') .'</p>
+                            <p> Contact Number: '. $this->input->post('senderNumber') .'</p>
+                            <p> Inquiry: '. $this->input->post('senderMessage') .'</p>';
 
             $mail->Body = $mailContent;
 
