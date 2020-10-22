@@ -119,8 +119,13 @@ body{
 
 @media only screen and (max-width: 600px) {
 
+    .content-wrapper{
+        padding-top: 1em !important; 
+    }
+    
     /* HOME */
     .carousel-text{
+        padding-top: 4em !important;
         padding-left: 100px;
         color:  #573a1a;
         margin-bottom: 2em;
@@ -168,11 +173,11 @@ body{
         padding-right: 0px !important;
     }
 
-    .aboutAccomplishments table, th, td {
-        padding: 5px !important;
+    .aboutPrograms td{
+       padding: 2px !important;
     }
-    
-    .aboutAccomplishments table, th, td img:hover{
+
+    .aboutPrograms img:hover{
         transform: scale(2);
     }
     
@@ -194,6 +199,12 @@ body{
         padding-left: 2em !important;
         padding-right: 2em !important;
     }
+
+    .printNews img{
+    width: 100% !important;
+    margin: 0px!important;
+    display: block !important;
+}
 
     .news img{
         margin: auto;
@@ -439,13 +450,9 @@ body{
 }
 
 .printNews img{
-    width: 80% !important;
+    width: 100%;
     margin: auto;
     display: block;
-}
-
-.news img{
-    width: 150px;
 }
 
 .brLineNews{
