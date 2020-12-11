@@ -110,7 +110,7 @@
         <div class="col-sm-12 brLineNews"></div>
 
         <div class="col-sm-2">
-            <img class="d-block img-fluid" src="./assets/news/clean_up/2.jpg" alt="qc">
+            <img class="d-block img-fluid" src="./assets/news/clean_up/1.jpg" alt="qc">
         </div>
         <div class="col-sm-10">
             <a href="<?php echo base_url(); ?>news/9">Sogo Cares</a>
