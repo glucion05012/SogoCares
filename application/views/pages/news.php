@@ -72,5 +72,90 @@
         </div>
 
         <div class="col-sm-12 brLineNews"></div>
+
+        <div class="col-sm-2">
+            <img class="d-block img-fluid" src="./assets/news/shelter/2.jpg" alt="cleaned">
+        </div>
+        <div class="col-sm-10">
+            <a href="<?php echo base_url(); ?>news/6">Hotel Sogo shelters frontline medical workers amidst COVID-19</a>
+            <p>Hotel Sogo has offered free room accommodations to frontline healthcare workers fighting the spread of COVID-19. 
+            In close coordination with different Local Mayors and hospitals, Hotel Sogo has undertaken this bold move under its 
+            Corporate Social Responsibility (CSR) Program –Sogo Cares...</p>
+        </div>
+
+        <div class="col-sm-12 brLineNews"></div>
+
+        <div class="col-sm-2">
+            <img class="d-block img-fluid" src="./assets/news/fire/1.jpg" alt="cleaned">
+        </div>
+        <div class="col-sm-10">
+            <a href="<?php echo base_url(); ?>news/7">Hotel Sogo donates food items and blankets to fire affected individuals in QC</a>
+            <p>As part of its Corporate Social Responsibility (CSR) – the ‘Sogo Cares’ program of Hotel Sogo extended its help to more 
+            than 500 affected individuals of the recent fire incidents that swept three residential areas in Quezon City....</p>
+        </div>
+
+        <div class="col-sm-12 brLineNews"></div>
+
+        <div class="col-sm-2">
+            <img class="d-block img-fluid" src="./assets/news/qc/1.jpg" alt="qc">
+        </div>
+        <div class="col-sm-10">
+            <a href="<?php echo base_url(); ?>news/8">Hotel Sogo gives aid to QC fire victims</a>
+            <p>Through its Corporate Responsibility Program – Sogo Cares, Hotel Sogo distributed relief goods to fire victims of Barangay Vasra, 
+            Quezon City on January 3, 2020. <br><br> Over 200 families were affected by the fire incident. The team immediately 
+            provided assistance to all affected families, including food packs, linens and bath towels.
+...</p>
+        </div>
+
+        <div class="col-sm-12 brLineNews"></div>
+
+        <div class="col-sm-2">
+            <img class="d-block img-fluid" src="./assets/news/clean_up/2.jpg" alt="qc">
+        </div>
+        <div class="col-sm-10">
+            <a href="<?php echo base_url(); ?>news/9">Sogo Cares</a>
+            <p>SOGO CARES. As part of its Corporate Social Responsibility program, Hotel Sogo donated linens, bath towels, and other cleaning materials in support to the Manila Clean-Up Drive last, October 24, 2019. 
+In celebration of Mayor Isko Moreno Domagoso’s ...</p>
+        </div>
+
+        <div class="col-sm-12 brLineNews"></div>
+
+        <div class="col-sm-2">
+            <img class="d-block img-fluid" src="./assets/news/holy_week/1.jpg" alt="qc">
+        </div>
+        <div class="col-sm-10">
+            <a href="<?php echo base_url(); ?>news/10">Hotel Sogo namigay ng libreng bottled waters nitong Semana Santa</a>
+            <p>Nagbigay ang Hotel Sogo ng libreng bottled waters sa mga libu-libong deboto at byahero noong Huwebes Santo, April 18, sa buong bansa bilang bahagi ng kanilang ‘Kwaresma 2019’ campaign.<br><br>
+ 
+ Sa tulong ng mga piling Hotel Sogo branches na malalapit sa simbahan
+ ...</p>
+        </div>
+
+        <div class="col-sm-12 brLineNews"></div>
+
+        <div class="col-sm-2">
+            <img class="d-block img-fluid" src="./assets/news/pulilan/1.jpg" alt="qc">
+        </div>
+        <div class="col-sm-10">
+            <a href="<?php echo base_url(); ?>news/11">Church in Pulilan Receives God’s Grace in Action</a>
+            <p> As cliché as it sounds, the phrase ‘in God’s perfect time’ is entirely real and it happens just at the 
+            right moment. Just like the Bible verse “And whatever you ask in prayer, you will receive, if you have faith” 
+            from Matthew 21:22, blessings pour down on Fr. Teofilo S. Rustia’s life....</p>
+        </div>
+
+        <div class="col-sm-12 brLineNews"></div>
+
+        <div class="col-sm-2">
+            <img class="d-block img-fluid" src="./assets/news/baler/1.jpg" alt="qc">
+        </div>
+        <div class="col-sm-10">
+            <a href="<?php echo base_url(); ?>news/12">Hotel Sogo’s Two-Day Outreach in Aurora</a>
+            <p>Hotel Sogo, through its Corporate Social Responsibility (CSR) program – Sogo Cares,
+             recently went on a two-day medical mission in the province of Aurora to give back a good cause 
+             to those who are in need of medical and dental attention. 
+...</p>
+        </div>
+
+        <div class="col-sm-12 brLineNews"></div>
     </div>
 </div>

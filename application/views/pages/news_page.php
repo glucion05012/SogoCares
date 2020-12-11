@@ -132,6 +132,112 @@ if($title == 1){
     ';
     $image1 = '../assets/news/Hotel_Like_no_other/1.jpg';
     $image2 = '../assets/news/Hotel_Like_no_other/2.jpg';
+}else if($title == 6){
+    $header = 'Hotel Sogo shelters frontline medical workers amidst COVID-19';
+    $content = 'Hotel Sogo has offered free room accommodations to frontline healthcare workers fighting the spread of COVID-19. In close coordination with different Local Mayors and hospitals, Hotel Sogo has undertaken this bold move under its Corporate Social Responsibility (CSR) Program –Sogo Cares.<br><br>
+    As of this writing, about 830 rooms have been allocated in coordination with Mayors Isko Moreno of Manila, Joy Belmonte of Quezon City, Oscar Malapitan of Caloocan and Lani Mercado of Bacoor, Cavite. The doctors, nurses and other healthcare workers from various hospitals such as Philippine General Hospital, Ospital Ng Maynila, Caloocan City Medical Center, and both public and private hospitals in Quezon City would not need to go home and have a nearby location to stay and rest. <br><br>
+    “This is to show support and gratitude to the frontliners who have been risking their lives and working tirelessly to help our countrymen in this time of need. We hope that in our small way, we can contribute our resources to help and support our brave health workers in fighting to defeat this dreaded disease.” Mr. Gus Corpus, CEO of Hotel Sogo said.<br><br>
+    “To all healthcare workers, our real heroes - Your noble deeds are appreciated. Hotel Sogo is thankful for your unwavering service to our country, thus, we have opened our doors for you to have a safe, So Clean, So Good accommodation,” Mr. Corpus added.<br><br>
+    Hotel Sogo remains vigilant in observing safe practices to mitigate the spread of COVID-19. Hotel Sogo will continue to uphold its mission to make a safe place, truly a “So Clean…So Good”. <br><br>
+    
+    To find out operational Hotel Sogo branches and other updates, visit our website at www.hotelsogo.com or like and follow us on Facebook page @HotelSogoOfficialPage, Twitter and Instagram @hotelsogo, and Youtube account @OfficialHotelSogo. <br><br>
+    ';
+    $image1 = '../assets/news/shelter/1.png';
+    $image2 = '../assets/news/shelter/2.jpg';
+}else if($title == 7){
+    $header = 'Hotel Sogo donates food items and blankets to fire affected individuals in QC';
+    $content = '
+    As part of its Corporate Social Responsibility (CSR) – the ‘Sogo Cares’ program of Hotel Sogo extended its help to more than 500 affected individuals of the recent fire incidents that swept three residential areas in Quezon City.<br><br>
+Late afternoon of April 30, fire with highest general alarm razed Barangay Baesa, Barangay Bahay Toro and Barangay Sinagtala which is around five kilometers apart.<br><br>
+Hotel Sogo immediately conducted a relief operation to give assistance to the hundreds of homeless individual by providing Sogo Cares pack consisted of food items such as packed noodles and canned goods. Linens and bath towels were also distributed that will help them with their basic needs.<br><br>
+ “Aside from providing quality hotel services to our clients nationwide, Hotel Sogo stays true to its mission in giving back to the community. We wanted to help these people to ease their sufferings by providing aid such as food and non-food items which are part of their essential needs,” said Sue Geminiano, Marketing Manager of Hotel Sogo.<br><br>
+The operation is under their Sogo Cares program which started in 1998 as Hotel Sogo donated linens and pillow cases to the flood-affected individuals after a strong tropical depression hit the country.<br><br>
+Moreover, under the roster of the Sogo Cares program are different advocacies and humanitarian activities such as the Doctor’s on Wheels which conducts medical missions, the Heroes Assistance for Filipino policemen, Adopt a Family program, relief operations, and donations.<br><br>
+“We are able to execute advocacy activities through the help of our branches that are located strategically all over the Philippines. With this, we’re able to coordinate it immediately to LGUs and prepare the needed aid to the vulnerable individuals affected by such emergency and calamity,” she added.<br><br>
+As of date, Hotel Sogo is the fastest-growing hospitality and lodging provider in the Philippines with 40 (and counting) branches across the archipelago that provides top notch hotel services and facilities at very affordable rate.<br><br>
+For more of Hotel Sogo’s events and promotions, visit www.hotelsogo.com or like/follow their Facebook, Twitter, and Instagram page @hotelsogo.  
+';
+    $image1 = '../assets/news/fire/1.jpg';
+    $image2 = '../assets/news/fire/2.jpg';
+}else if($title == 8){
+    $header = 'Hotel Sogo gives aid to QC fire victims';
+    $content = 'Through its Corporate Responsibility Program – Sogo Cares, Hotel Sogo distributed relief goods to fire victims of Barangay Vasra, Quezon City on January 3, 2020.<br><br> 
+    Over 200 families were affected by the fire incident. The team immediately provided assistance to all affected families, including food packs, linens and bath towels.<br><br>
+    Hotel Sogo North Ave. Manager Ms. Nelvie L. Cruz and Hotel Sogo Mindanao Ave. Manager Mr. Jeff Macaballug took charge in instilling the company’s core value “Pagmamalasakit” through the said donation. It was also made possible through the help and guidance of local government units.<br><br>
+    Through Sogo Cares program, Hotel Sogo successfully extends its service to the community through its relief operations program that focuses on providing basic needs of indigent and under-served communities throughout the Philippines.<br><br>
+    To find out more about this and other Sogo Cares events and promos, like / follow us on Facebook (facebook.com/sogocares), and Instagram (@sogo.cares).
+    ';
+    $image1 = '../assets/news/qc/1.jpg';
+    $image2 = '../assets/news/qc/2.jpg';
+}else if($title == 9){
+    $header = 'Sogo Cares';
+    $content = 'SOGO CARES. As part of its Corporate Social Responsibility program, Hotel Sogo donated linens, bath towels, and other cleaning materials in support to the Manila Clean-Up Drive last, October 24, 2019.<br><br> 
+    In celebration of Mayor Isko Moreno Domagoso’s birthday, the worthwhile activity was joined by the management of Hotel Sogo Avenida branch. <br><br>
+    This aims to preserve the beauty and give significance to the City of Manila. To know more about SOGO Cares, you may visit www.hotelsogo.com/sogocares.
+    ';
+    $image1 = '../assets/news/clean_up/1.jpg';
+    $image2 = '../assets/news/clean_up/2.jpg';
+}else if($title == 10){
+    $header = 'Hotel Sogo namigay ng libreng bottled waters nitong Semana Santa';
+    $content = 'Nagbigay ang Hotel Sogo ng libreng bottled waters sa mga libu-libong deboto at byahero noong Huwebes Santo, April 18, sa buong bansa bilang bahagi ng kanilang ‘Kwaresma 2019’ campaign.<br><br>
+ 
+    Sa tulong ng mga piling Hotel Sogo branches na malalapit sa simbahan kabilang ang Cainta, Novaliches, Avenida, Harrison Pasay, Tarlac, at Cebu, nag-set up sila ng kani-kanilang booths para maipamahagi ang libreng bottled waters sa ating mga kababayang nagsagawa ng kinaugaliang Visita Iglesia.<br><br>
+     
+    Ang pamimigay ng ready-to-drink bottled waters ay para makatulong sa ating mga kababayang nagsagawa ng kani-kanilang aktibidad ngayong Holy Week at pampawi ng kanilang uhaw lalo na ngayong summer season.<br><br>
+     
+    Sa tulong ng ilang pangunahing simbahan at local barangay units, ang Hotel Sogo Novaliches branch ay nagtayo ng booth sa Shrine of Our Lady of Divine Mercy, ang Harrison Pasay branch ay nagtayo malapit sa Baclaran Church, ang Cebu branch naman ay malapit sa Basilica Minore del Santo Niño de Cebu at habang ang Tarlac branch ay nakaposisyon sa San Sebastian Cathedral - Tarlac. <br><br>
+     
+    Ang Hotel Sogo Cainta naman ay nagtayo malapit sa Our Lady of Antipolo Shrine para mabigyan ng tubig ang dagsa ng mga deboto na nagsasagawa ng ‘Alay Lakad.’ Samantalang ang Avenida branch na malapit sa Minor Basilica of the Black Nazarene ay nagtayo ng booth sa tapat ng hotel building.<br><br>
+     
+    Ang nasabing aktibidad ay bahagi ng kanilang Corporate Social Responsibility (CSR) sa ilalim ng programang Sogo Cares na nagsasagawa ng mga community service, relief operations, donation activities at medical missions sa buong bansa.<br><br>
+    
+    Ang Hotel Sogo ay ang nangungunang hospitality at lodging provider sa Pilipinas na may 39 branches na kung saan nagbibigay ng dekalidad na hotel services sa abot kayang halaga.<br><br>
+    
+    Para sa iba pang impormasyon at Hotel Sogo events and promotions, bisitahin ang www.hotelsogo.com o i-like / follow ang kanilang Facebook, Twitter, at Instagram page @hotelsogo.
+    ';
+    $image1 = '../assets/news/holy_week/1.jpg';
+    $image2 = '../assets/news/holy_week/2.jpg';
+}else if($title == 11){
+    $header = 'Church in Pulilan Receives God’s Grace in Action';
+    $content = 'As cliché as it sounds, the phrase ‘in God’s perfect time’ is entirely real and it happens just at the right moment. Just like the Bible verse “And whatever you ask in prayer, you will receive, if you have faith” from Matthew 21:22, blessings pour down on Fr. Teofilo S. Rustia’s life.<br><br>
+
+    Fr. Teo - as called by his friends, founder of the Religious Society of Our Lady of Bethesda, had received a tumultuous amount of 2.4 million for the development to the Oratorio de los Peregrinos.<br><br>
+    
+    In a joint discussion made last 2018, Fr. Teo together with Mr. Edmundo Las, a devout catholic and Global Comfort Group Corporation’s (GCGC) Board of Director had a dialog in making <br><br>
+    
+    
+    
+    improvements to the oratorio. Church repairs and future developments were greatly considered by Mr. Las especially the home lift elevator which he donated amounting to PHP 1,170,000 million. Mr. Mr. Edmundo thinks that the renovation of the elevator will greatly benefit the priests and elderly pilgrims of Oratorio de Los Peregrinos.<br><br>
+    “We started building 3 years ago; we built this on my property and I offered it to the community so this could be a permanent place for the oratorio – our home, our center.” Fr. Rustia said. 
+    In addition, Mr. Las also presented Fr. Teo with a grant to finance the other projects of Religious Society of Our Lady of Bethesda, the organization which operates the chapel. <br><br>
+    
+    “One of our future projects is to expand our orphanage since we only take care of only 12 boys. Of course we would like to invite more to become priests. We took care of them from preparatory to Grade 12 and further guide them to become priests. Another big effort we want to put up is to take care of the retired priests, we have started that already but you have to put another home, so these are all lifted to God.” Fr. Teo added.<br><br>
+    
+    Blessings did really pour down for oratorio when Fr. Teo and Mr. Las were reunited. And little did we know, they both share the love of God, leadership among others, and care for one another.<br><br>
+    
+    “Providence – that is our mantra. It means God takes care of everything, puts everything into place. I and Ed first met during one of the get-together with my ex-seminarians. I think it’s God’s will for us to meet there together with my ex-seminarians as we are planning for projects to help the community. And so, that started our journey together as he became honorary alumnus of our seminary and became a frontrunner in putting up the orphanage we built in Sta. 
+    
+    
+    
+    
+    Maria, Bulacan. Also, through Ed’s inspiration and leadership, he was the moving spirit behind the construction of Tahanan ni Sta. Isabel, the home for elderly women we built after the orphanage.” Fr. Teo shared.<br><br>
+    
+    “Ed knows what to do and he always fins solution. I believe all the leader of Sogo will help with our advocacy, including the people and companies connected with Sogo. I thank Ed very much for putting the presence of God in Sogo very much. We’re happy because more and more are into this [helping religious organizations] and I am happy that Sogo isn’t new in this effort. God bless our efforts so that in return we may be a blessing for others. The bounty that you get from God’s goodness, you should be able to share and that is what many business enterprises now have come to realized and Sogo is in forefront of the crusade”<br><br>
+    GCGC is not only the Philippines’ largest and fastest-growing group of hotel chain; it also has the biggest heart when it comes to helping deserving organizations and people in need. <br><br>
+    For more information on Hotel Sogo’s advocacies and charity work, visit www.hotelsogo.com/sogocares.
+    ';
+    $image1 = '../assets/news/pulilan/1.jpg';
+    $image2 = '../assets/news/pulilan/2.jpg';
+}else if($title == 12){
+    $header = 'Hotel Sogo’s Two-Day Outreach in Aurora';
+    $content = 'Hotel Sogo, through its Corporate Social Responsibility (CSR) program – Sogo Cares, recently went on a two-day medical mission in the province of Aurora to give back a good cause to those who are in need of medical and dental attention. <br><br>
+    Over 400 fellow countrymen were aided with free general consultation, free medicines, and free dental extraction throughout the two-day medical mission at Brgy. Calabuanan and Brgy. Mucdol. It was made possible through the partnership with Aurora Police Provincial Office, headed by Police Supt. Cosme A. Abrenica, 91st Infantry Battalion Philippine Army, Lt. Col. Jose Marie F. Torrenueva, and different local government units. <br><br>
+    Through Sogo Cares program, Hotel Sogo successfully extends its service to the community through the Doctors on Wheels program that focuses on providing free medical consultations, laboratory examinations and medications to under-served communities throughout the Philippines.<br><br>
+     
+    To find out more about this and other Sogo Cares events and promos, like / follow us on Facebook (facebook.com/sogocares), and Instagram (@sogo.cares).
+    ';
+    $image1 = '../assets/news/baler/1.jpg';
+    $image2 = '../assets/news/baler/2.jpg';
 }
  
 

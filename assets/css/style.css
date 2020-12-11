@@ -441,6 +441,13 @@ body{
 .eventImg img{
     margin-bottom: 5em;
 }
+.eventImg .eventsPromoImg{
+    height: auto;
+    width: 50%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 /* -------------- END EVENTS -------------- */
 
 /* -------------- NEWS -------------- */
