@@ -238,6 +238,56 @@ For more of Hotel Sogo’s events and promotions, visit www.hotelsogo.com or lik
     ';
     $image1 = '../assets/news/baler/1.jpg';
     $image2 = '../assets/news/baler/2.jpg';
+}else if($title == 13){
+    $header = 'Hospitality 2.0:Hotel Sogo’s Innovation in Post-Covid-19';
+    $content = 'The world is facing an economic, health, and social crisis due to Coronavirus (CoVid-19), which is identified as an illness caused by a virus that can spread from person to person. Truly, this CoVid-19 pandemic shook the hotel industry really hard, and turned many hotel businesses upside down, especially here in the Philippines. <br><br>
+
+    As we all know the hotel industry is designed to operate and accept guests 24/7. But because of this pandemic, travel restrictions were put in place to control the further spread of the virus. <br><br>
+    In line with that, Hotel Sogo, the largest hotel chain in the Philippines, utilized this pandemic as an opportunity for innovation.  Hotel Sogo unveiled new measures to re-establish confidence in the hotel industry as they adapt to the “new normal” state. <br><br>
+    Innovation as its finest. <br><br>
+    As part of their “So Clean, So Good, So Safe” campaign under its Sogo So Safe Program, concrete ways were made to increase its cleanliness standards to meet the new health and safety challenges brought on by this pandemic. <br><br>
+    Take a look on their innovation during this post CoVid-19 giving their patrons a So Clean, So Good, So Safe stay. <br><br>
+    Anti-Microbial Copper Films<br><br>
+    To increase everyone’s safety, Hotel Sogo installed Microbial Copper in frequently touched surfaces of the hotel. <br><br>
+    3M Filtrete™ Electrostatic Air Filters in All Rooms<br><br>
+    Sogo started installing 3M Filtrete™ 3-in-1 Technology Aircon Filters in all rooms to augment its regular aircon filters. These are made with permanently-charged electrostatic fibers that remove Microparticle pollutants that include fine dust, pollen, pet dander, smoke, bacteria and viruses, resulting in cleaner air. <br><br>
+    
+    UVC Disinfection<br><br>
+    Hotel Sogo is also implementing ultraviolet light technology for sanitizing cash registers, keycard cases, elevator buttons, and its ceiling, room door handles, as well as in food preparation for an enhanced cleaning and disinfection processes.
+    With the use of UVC-light for disinfection, you are safe to stay at any Hotel Sogo branches as UVC cleans 99.99% of harmful pathogens, bacteria and viruses in seconds. <br><br>
+    No-Contact Hotel Features<br><br>
+    As we develop more changes this new normal, Hotel Sogo has innovated all its branches in having no-contact facilities like contactless thermal detector,  automatic doors, and developed the use of SaniKey for door handles, elevators buttons, and ATMs to lessen contact points and reduce the risk of virus transmission. <br><br>
+    Microbial testing<br><br>
+    Hotel Sogo makes sure that cleaning is accurate and effectively sanitized which gives proven results in just minutes. <br><br>
+    So Clean…So Good…So Safe! <br><br>
+    Hotel Sogo continuously vows to protect and provide excellent accommodation despite of CoVid-19 danger. <br><br>
+    “We promise to protect our staff and our guests who will visit our hotels, we are ready for new normal and this is a long-term commitment. This virus won’t stop each of us to create wonderful memories with our love ones. Together, let us enjoy our stay in Hotel Sogo,” Mr. Reynaldo Malaca, Hotel Sogo CEO stated. <br><br>
+    To find out more about Hotel Sogo, visit its website at www.hotelsogo.com or like and follow us on Facebook page @HotelSogoOfficialPage, Twitter, and Instagram @hotelsogo, and Youtube account @OfficialHotelSogo. <br><br>
+    
+    ';
+    $image1 = '../assets/news/hospitality/1.jpg';
+    $image2 = '../assets/news/hospitality/2.jpg';
+}else if($title == 14){
+    $header = 'Hotel Sogo CEO Talks about their Adaptation to the New Normal';
+    $content = 'Hotel Sogo CEO Talks about their Adaptation to the New Normal
+    Mr. Reynaldo Malaca, Chief Executive Officer of Hotel Sogo, shares their new normal operational measures, which focus on safety, disinfection and sanitation of the hotels.  <br><br>
+    “So far 2020 isn’t the best year for all of us, we’ve had natural disasters, COVID-19 pandemic with different level of lockdowns implementation which decimated the hotel industry badly. However, we are still here standing providing excellent accommodation for every Filipinos with our redefined new normal techonologies”, stated by Mr. Malaca. <br><br>
+    Hotel Sogo unveiled new measures to re-establish confidence in the hotel industry as they adapt to the “new normal” state. <br><br>
+    As part of their “So Clean, So Good, So Safe” campaign under its Sogo, So Safe Program, the hotel increase its cleanliness standards to meet the new health and safety challenges brought on by this pandemic. <br><br>
+    Hotel Sogo continuously achieving meaningful action plans by optimizing hotel protocols across its branches nationwide. This immediate response was established to fully secure the safety of its employees especially all the frontliners, OFWs, and seafarer repatriates who are currently sheltering in their hotels. <br><br>
+    Enhanced technologies are our new weapon to fight the COVID-19. This machinery will be part of the daily lives of hotel’s employees and guests for a much safer environment. <br><br>
+    Hotel Sogo is also implementing ultraviolet light technology for sanitizing the rooms, toilet, cash registers, keycard cases, elevator buttons, and its ceiling, room door handles for an enhanced cleaning and disinfection processes. <br><br>
+    To further protect everyone’s safety, Hotel Sogo also installed Anti-Microbial Copper Film in hotel surfaces. They also installed 3M Filtrete™ Electrostatic Air Filters in all rooms. Aside from adhering to WHO, New Normal guidelines, Hotel Sogo added more protection by improving and increasing FRESH AIR INFLOW, to filter and remove air pollutants. <br><br>
+    So Clean…So Good…So Safe<br><br>
+    As the COVID-19 pandemic continues to spread, Hotel Sogo adapts the help of Covid Sniffer Dogs (K9) for screening. The dogs were able to identify whether the person is positive or negative for the said virus. The hotel will use this kind of method to all their employees, once a week. Once proven successful, they will use the same protocol for their guests. <br><br>
+    
+    Hotel Sogo is always envisioning a future of hotel stay which is clean and safe and provides a quality and meaningful experience to its guests —making it their home away from home.
+    To find out more about Hotel Sogo, visit its website at www.hotelsogo.com or like and follow us on Facebook page @HotelSogoOfficialPage, Twitter, and Instagram @hotelsogo, and Youtube account @OfficialHotelSogo.
+    
+    
+    ';
+    $image1 = '../assets/news/ceo/1.jpg';
+    $image2 = '../assets/news/ceo/2.jpg';
 }
  
 

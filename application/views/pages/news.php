@@ -9,6 +9,31 @@
         </div>
 
         <div class="col-sm-2">
+            <img class="d-block img-fluid" src="./assets/news/hospitality/1.jpg" alt="qc">
+        </div>
+        <div class="col-sm-10">
+            <a href="<?php echo base_url(); ?>news/13">Hospitality 2.0:Hotel Sogo’s Innovation in Post-Covid-19</a>
+            <p>The world is facing an economic, health, and social crisis due to Coronavirus (CoVid-19), 
+            which is identified as an illness caused by a virus that can spread from person to person. Truly, 
+            this CoVid-19 pandemic shook the hotel industry really hard, and turned many hotel businesses upside down, 
+            especially here in the Philippines...</p>
+        </div>
+
+        <div class="col-sm-12 brLineNews"></div>
+
+        <div class="col-sm-2">
+            <img class="d-block img-fluid" src="./assets/news/ceo/1.jpg" alt="qc">
+        </div>
+        <div class="col-sm-10">
+            <a href="<?php echo base_url(); ?>news/14">Hotel Sogo CEO Talks about their Adaptation to the New Normal</a>
+            <p>Mr. Reynaldo Malaca, Chief Executive Officer of Hotel Sogo, shares their new normal operational measures, which focus on safety, disinfection and sanitation of the hotels.  
+“So far 2020 isn’t the best year for all of us, we’ve had natural disasters, COVID-19 pandemic with different level of lockdowns implementation which decimated the hotel industry badly. However, we are still here standing providing excellent accommodation for every Filipinos with our redefined new normal techonologies”, stated by Mr. Malaca.
+...</p>
+        </div>
+
+        <div class="col-sm-12 brLineNews"></div>
+
+        <div class="col-sm-2">
             <img class="d-block img-fluid" src="./assets/news/Supports_DOH/1.jpg" alt="Adopt-a-Family">
         </div>
         <div class="col-sm-10">
